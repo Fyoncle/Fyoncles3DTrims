@@ -25,7 +25,8 @@ Enable `labPBR` in your shader settings for trims to actually glow
 [Frostiful](https://modrinth.com/mod/frostiful)  
 [AdventureZ](https://modrinth.com/mod/adventurez)  
 [Enderscape](https://modrinth.com/mod/enderscape)  
-[Deeper and Darker](https://modrinth.com/mod/deeperdarker)
+[Deeper and Darker](https://modrinth.com/mod/deeperdarker)  
+[Supplementaries](https://modrinth.com/mod/supplementaries)
 
 [Punchy!](https://modrinth.com/mod/punchy-fpa)  
 [Hold My Items](https://modrinth.com/mod/hold-my-items)
