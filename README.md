@@ -4,12 +4,12 @@
 
 ![Banner](https://cdn.modrinth.com/data/cached_images/6d12b2b7c6b79343387b0fd81336eeb990a86c5e_0.webp)
 
-This resource pack adds 3D Armor Trim Smithing Templates to the game that look beautiful with glowing outlines, while staying compatible with mods and shaders.
+This resource pack adds 3D Armor Trim Smithing Templates to the game that look beautiful with glowing outlines, while staying compatible with Hold My Items and Shaders.
 
 ## ⚙️ Requirements ⚙️
 
 **Versions 1.20.1 and 1.21 & 1.21.1 & 1.21.2:**  
-Requires [Modefite - Item Definition Backport](modefite-item-definition-backport)
+Requires [Modefite - Item Definition Backport](https://modrinth.com/mod/modefite-item-definition-backport)
 
 ▔  
 **Versions 1.21.4+:**  
@@ -47,3 +47,5 @@ Thanks to [GreatKingKeenan](https://modrinth.com/user/GreatKingKeenan) for helpi
 The amazing logo is made by [Vixel](https://modrinth.com/user/Vixel)!
 
 </div>
+
+[![Kinetic Hosting](https://github.com/Fyoncle/Elysium-Days/blob/main/kinetic_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=1616)
